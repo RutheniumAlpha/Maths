@@ -5,7 +5,7 @@ import com.google.appinventor.components.runtime.*;
 import com.google.appinventor.components.common.ComponentCategory;
 import java.lang.Math;
 
-@DesignerComponent(version = 1,  description = "Use simple and Advanced Mathematics",
+@DesignerComponent(version = 1,  description = "Use simple and Advanced Mathematics.",
         category = ComponentCategory.EXTENSION,
         nonVisible = true,   iconName = "https://i.ibb.co/k6zsc6t/Ruthenium-Alpha-Logo.png")
 @SimpleObject(external = true)
